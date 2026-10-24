@@ -70,4 +70,4 @@ npm run dev
 `main` ブランチにプッシュすると、GitHub Actions（`.github/workflows/deploy.yml`）が型チェック・テスト・ビルドを行い、GitHub Pages に公開します。
 
 初回のみ、リポジトリの Settings → Pages で Source を「GitHub Actions」にしてください。
-公開URLは `https://<ユーザー名>.github.io/direct-share/` です。
+公開URLは https://pecology.github.io/direct-share/ です。
